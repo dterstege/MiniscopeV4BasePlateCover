@@ -1,10 +1,11 @@
 # MiniscopeV4BasePlateCover
-===========================
+====
+
 
 <img width="1263" alt="Screen Shot 2021-05-06 at 2 42 20 PM" src="https://user-images.githubusercontent.com/44174532/117363059-4b262900-ae79-11eb-9520-c0f11644096a.png">
 
 
-** Miniscope v4 Base Plate Cover ** is an STL file designed to fit the baseplates which are stock to the [Miniscope v4](https://github.com/Aharoni-Lab/Miniscope-v4). This intent of this model is to keep dust and debris from contacting the lens when active imaging is not occurring.
+**Miniscope v4 Base Plate Cover** is an STL file designed to fit the baseplates which are stock to the [Miniscope v4](https://github.com/Aharoni-Lab/Miniscope-v4). This intent of this model is to keep dust and debris from contacting the lens when active imaging is not occurring.
 
 MiniscopeV4BasePlateCover was created by Dylan Terstege, a Neuroscience PhD candidate in the Epp Lab at the University of Calgary.
 
