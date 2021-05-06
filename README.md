@@ -1,5 +1,4 @@
 # MiniscopeV4BasePlateCover
-====
 
 
 <img width="1263" alt="Screen Shot 2021-05-06 at 2 42 20 PM" src="https://user-images.githubusercontent.com/44174532/117363059-4b262900-ae79-11eb-9520-c0f11644096a.png">
